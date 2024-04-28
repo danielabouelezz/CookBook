@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|d:\\microsoft visual studio\\2022\\repos\\cookbook\\cookbook\\ui\\ingredientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|solutionrelative:cookbook\\ui\\ingredientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\cookbook\\ui\\ingredientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|solutionrelative:cookbook\\ui\\ingredientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\cookbook\\ui\\ingredientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|solutionrelative:cookbook\\ui\\ingredientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079C1C81-E5A7-423A-838C-58E170D6DDE6}|DomainModel\\DomainModel.csproj|d:\\microsoft visual studio\\2022\\repos\\cookbook\\domainmodel\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079C1C81-E5A7-423A-838C-58E170D6DDE6}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB519D0-9589-4736-8230-4602233FA525}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\dataaccesslayer\\contracts\\iingredientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB519D0-9589-4736-8230-4602233FA525}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\contracts\\iingredientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB519D0-9589-4736-8230-4602233FA525}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\dataaccesslayer\\repositories\\ingredientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB519D0-9589-4736-8230-4602233FA525}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\ingredientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|solutionrelative:cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\cookbook\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3DBBC545-2C98-4983-97CE-76E10F485733}|CookBook\\CookBook.csproj|solutionrelative:cookbook\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IngredientsForm.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\UI\\IngredientsForm.cs",
+              "RelativeDocumentMoniker": "CookBook\\UI\\IngredientsForm.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\UI\\IngredientsForm.cs",
+              "RelativeToolTip": "CookBook\\UI\\IngredientsForm.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAjwJMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:39:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IngredientsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\UI\\IngredientsForm.Designer.cs",
+              "RelativeDocumentMoniker": "CookBook\\UI\\IngredientsForm.Designer.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\UI\\IngredientsForm.Designer.cs",
+              "RelativeToolTip": "CookBook\\UI\\IngredientsForm.Designer.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAgwMYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:12:00.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngredientsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\UI\\IngredientsForm.cs",
+              "RelativeDocumentMoniker": "CookBook\\UI\\IngredientsForm.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\UI\\IngredientsForm.cs [Design]",
+              "RelativeToolTip": "CookBook\\UI\\IngredientsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:02:27.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\DomainModel\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Models\\Ingredient.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\DomainModel\\Models\\Ingredient.cs",
+              "RelativeToolTip": "DomainModel\\Models\\Ingredient.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAywBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:12:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IIngredientsRepository.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\DataAccessLayer\\Contracts\\IIngredientsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Contracts\\IIngredientsRepository.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\DataAccessLayer\\Contracts\\IIngredientsRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Contracts\\IIngredientsRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwBAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:21:08.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngredientsRepository.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\DataAccessLayer\\Repositories\\IngredientsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IngredientsRepository.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\DataAccessLayer\\Repositories\\IngredientsRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IngredientsRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwDIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:37:27.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\Program.cs",
+              "RelativeDocumentMoniker": "CookBook\\Program.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\Program.cs",
+              "RelativeToolTip": "CookBook\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T20:29:07.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\App.config",
+              "RelativeDocumentMoniker": "CookBook\\App.config",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\repos\\CookBook\\CookBook\\App.config",
+              "RelativeToolTip": "CookBook\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-16T19:31:10.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
